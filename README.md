@@ -10,10 +10,11 @@ npm run dev
 yarn dev
 # or
 pnpm dev
-# or![Cardano Wallet_1](https://github.com/user-attachments/assets/9ff41790-4117-40d9-811f-e2c9e7161d86)
-![Cardano Wallet](https://github.com/user-attachments/assets/729c1efd-4d50-4cd1-be4a-bb9379086271)
+# or
 
-bun dev
+bun dev![Cardano Wallet_1](https://github.com/user-attachments/assets/173a5b31-0936-4890-b91d-a13406133f14)
+![Cardano Wallet](https://github.com/user-attachments/assets/3321a73f-cda2-4b68-9f85-1c49229fef21)
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
