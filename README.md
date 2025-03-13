@@ -1,3 +1,6 @@
+The project is a web application built with React and Next.js that interacts with the Cardano Blockfrost API to retrieve and display cryptocurrency wallet information and NFT assets. 
+Users input a wallet address, and the app shows transaction details (received and sent funds) or a list of NFT assets with pagination.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
